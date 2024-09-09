@@ -1,4 +1,4 @@
 # competitive-programming
 
-My codechef's profile link :-)
-https://www.codechef.com/users/pavan082005
+My codeforces's profile link :-)
+https://www.codeforces.com/profile/pkm008
